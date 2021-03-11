@@ -243,7 +243,7 @@ class App extends Component {
                     }
                     <hr />
                     <p>
-                        数据来自 2019.10 选课系统
+                        数据来自 2021.3 选课系统, 数据来源@cbwang2016, 之前几个学期选过的课可能无法查到
                         &nbsp; <button onClick={this.clear_db.bind(this)}>清除缓存</button>
                     </p>
                     <p>&copy;2019 xmcp <a href="https://github.com/xmcp/whatclass" target="_blank" rel="noopener noreferrer">GitHub</a></p>
